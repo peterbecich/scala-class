@@ -2,6 +2,7 @@ package com.datascience.education.tutorial.lecture1
 
 object Heirloom {
 
+  
   class GreatGrandparent
   class Grandparent extends GreatGrandparent
   class Parent extends Grandparent
